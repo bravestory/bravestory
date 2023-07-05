@@ -1,7 +1,7 @@
 [![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://bravestory.io)
 <h1 align="center">Hi 👋, I'm Phudis Rangsisuriyachai</h1>
 <h3 align="center">A passionate computer science student from UCSC</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZvdGJpczd3eDYyaWtrZXBmYjEyeDBreGMzbDF2dnZlYXpydGtmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZvdGJpczd3eDYyaWtrZXBmYjEyeDBreGMzbDF2dnZlYXpydGtmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravestory&label=Profile%20views&color=0e75b6&style=flat" alt="bravestory" /> </p>
 
