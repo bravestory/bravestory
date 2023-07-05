@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **bravestorysw2@gmail.com**
+- 📫 How to reach me: **bravestorysw2@gmail.com**
 
-- ⚡ Strange fact **The reason that I name myself bravestory as my every account name is to give me a courage to get through any obstacle that I will meet in the near future..**
+- ⚡ Strange fact: **The reason that I name myself bravestory as my every account name is to give me a courage to get through any obstacle that I will meet in the near future..**
 
 - 👀 This is my second account, and I will use this account from now on.
 - (First acc: https://github.com/prangsis)
