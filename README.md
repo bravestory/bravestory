@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravestory&label=Profile%20views&color=0e75b6&style=flat" alt="bravestory" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
 - 📫 How to reach me: **phudis.ucsc@gmail.com**
 
-- ⚡ Strange fact: **The reason that I name myself bravestory as my every account name is to give me a courage to get through any obstacle that I will meet in the near future..**
+- ⚡ **I do not have lots of project and experience so that I am trying to learn new stuffs everyday. Now I am currently learning react native.**
 
 - 👀 This is my second account, and I will use this account from now on.
 - (School account: https://github.com/prangsis)
