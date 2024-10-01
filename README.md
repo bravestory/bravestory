@@ -8,7 +8,7 @@
 
 - ⚡ **I do not have lots of project and experience so that I am trying to learn new stuffs everyday. Now I am currently learning react native.**
 
-- 👀 This is my second account, and I will use this account from now on.
+- 👀 This is my second account (my old account is demolished), and I will use this account from now on.
 - (School account: https://github.com/prangsis)
 
 <h3 align="left">Languages and Tools:</h3>
