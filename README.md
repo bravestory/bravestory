@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://bravestory.io)
+[![MasterHead](https://i.redd.it/eti95tjbyb7a1.gif)](https://bravestory.io)
 <h1 align="center">Hi 👋, I'm Phudis Rangsisuriyachai</h1>
 <h3 align="center">A passionate computer science student from UCSC</h3>
 
